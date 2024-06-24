@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\progi\\menhely2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EEAFBEE2-A05C-4D36-8E9A-56FD1C6C1D4F}|menhely\\menhely.csproj|d:\\progi\\menhely2\\menhely\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEAFBEE2-A05C-4D36-8E9A-56FD1C6C1D4F}|menhely\\menhely.csproj|solutionrelative:menhely\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\progi\\menhely2\\menhely\\Program.cs",
+              "RelativeDocumentMoniker": "menhely\\Program.cs",
+              "ToolTip": "D:\\progi\\menhely2\\menhely\\Program.cs",
+              "RelativeToolTip": "menhely\\Program.cs",
+              "ViewState": "AQIAAJsAAAAAAAAAAAAqwLUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T08:55:50.763Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

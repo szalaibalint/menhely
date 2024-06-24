@@ -1,0 +1,14 @@
+D:\progi\menhely\menhely\bin\Debug\menhely.exe.config
+D:\progi\menhely\menhely\bin\Debug\menhely.exe
+D:\progi\menhely\menhely\bin\Debug\menhely.pdb
+D:\progi\menhely\menhely\obj\Debug\menhely.csproj.AssemblyReference.cache
+D:\progi\menhely\menhely\obj\Debug\menhely.csproj.CoreCompileInputs.cache
+D:\progi\menhely\menhely\obj\Debug\menhely.exe
+D:\progi\menhely\menhely\obj\Debug\menhely.pdb
+D:\progi\menhely1\menhely\bin\Debug\menhely.exe.config
+D:\progi\menhely1\menhely\bin\Debug\menhely.exe
+D:\progi\menhely1\menhely\bin\Debug\menhely.pdb
+D:\progi\menhely1\menhely\obj\Debug\menhely.csproj.AssemblyReference.cache
+D:\progi\menhely1\menhely\obj\Debug\menhely.csproj.CoreCompileInputs.cache
+D:\progi\menhely1\menhely\obj\Debug\menhely.exe
+D:\progi\menhely1\menhely\obj\Debug\menhely.pdb
